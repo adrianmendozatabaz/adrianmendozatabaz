@@ -67,19 +67,6 @@ Actualmente trabajo en:
 
 ---
 
-# 📌 Proyectos Destacados
-
-### 🧠 SIA – Sistema Integral de Autoaprendizaje
-Sistema CRM orientado a capacitación interna con reportes, contenido educativo y gestión de usuarios.
-
-### ⚙️ Herramientas Centenario
-Suite de utilidades internas para consulta y generación de reportes institucionales.
-
-### 🍹 Bebidas Vue
-SPA desarrollada con **Vue 3 + Pinia + consumo de APIs externas**.
-
----
-
 # 🧠 Actualmente aprendiendo
 
 - Arquitectura limpia en **PHP**
