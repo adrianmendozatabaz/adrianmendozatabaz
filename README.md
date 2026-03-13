@@ -16,7 +16,8 @@ Actualmente trabajo en el desarrollo de sistemas internos y herramientas para op
 - JavaScript
 - Vue.js
 - HTML / CSS
-
+- VueJS
+  
 **Herramientas**
 - Git
 - Docker
@@ -46,22 +47,7 @@ Actualmente trabajo en el desarrollo de sistemas internos y herramientas para op
 - Aplicaciones SPA con Vue
 - Integración de APIs externas
 
----
-
-## 📌 Proyectos destacados
-
-🔹 **SIA – Sistema Integral de Autoaprendizaje**  
-Sistema CRM con reportes, capacitaciones y gestión de usuarios.
-
-🔹 **Herramientas Centenario**  
-Suite de utilidades para consulta y generación de reportes institucionales.
-
----
-
-## 📫 Contacto
-
-- GitHub: https://github.com/adrianmendozatabaz
-
----
 
 ⭐ *Siempre aprendiendo, siempre construyendo.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianmendozatabaz&show_icons=true)
