@@ -1,18 +1,26 @@
-# 👋 Hola, soy Adrián Mendoza (Tabaz)
+# 👨‍💻 Adrián Mendoza | Tabaz
 
-💻 Desarrollador enfocado en **Backend, sistemas internos y análisis de datos**.  
-Me especializo en construir herramientas prácticas que resuelven problemas reales dentro de organizaciones.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Backend+Developer;PHP+%7C+Vue+%7C+SQL;Systems+and+Data+Enthusiast;Building+Tools+That+Solve+Real+Problems" />
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+Desarrollador enfocado en **backend, sistemas internos y análisis de datos**.  
+Me gusta construir herramientas que optimicen procesos reales dentro de organizaciones.
 
 Actualmente trabajo en:
 
-- Sistemas internos y CRM
-- Aplicaciones SPA con Vue
-- Optimización de consultas SQL
+- Desarrollo de **CRM y sistemas internos**
+- Aplicaciones **SPA con Vue**
+- Optimización de **consultas SQL**
 - Automatización y análisis de datos
 
 ---
 
-# 🚀 Tecnologías
+# 🧰 Tecnologías
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -26,7 +34,7 @@ Actualmente trabajo en:
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Estado y APIs
-![Pinia](https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge&logo=vue.js&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 ### Herramientas
@@ -41,21 +49,50 @@ Actualmente trabajo en:
 
 # 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianmendozatabaz&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmendozatabaz&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adrianmendozatabaz&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=adrianmendozatabaz&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmendozatabaz&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🔥 Actividad
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=adrianmendozatabaz&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📌 Proyectos Destacados
+
+### 🧠 SIA – Sistema Integral de Autoaprendizaje
+Sistema CRM orientado a capacitación interna con reportes, contenido educativo y gestión de usuarios.
+
+### ⚙️ Herramientas Centenario
+Suite de utilidades internas para consulta y generación de reportes institucionales.
+
+### 🍹 Bebidas Vue
+SPA desarrollada con **Vue 3 + Pinia + consumo de APIs externas**.
 
 ---
 
 # 🧠 Actualmente aprendiendo
 
-- Arquitectura limpia en PHP
-- Optimización avanzada de SQL
-- Integración de IA en aplicaciones
-- Visualización de datos con Power BI
+- Arquitectura limpia en **PHP**
+- Optimización avanzada de **SQL**
+- Integración de **IA en aplicaciones**
+- Visualización de datos con **Power BI**
+  
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adrianmendozatabaz&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-⭐ *Siempre aprendiendo. Siempre construyendo.*
+⭐ *Siempre aprendiendo, siempre construyendo.*
