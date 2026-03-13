@@ -45,6 +45,8 @@ Actualmente trabajo en:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmendozatabaz&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=adrianmendozatabaz&theme=tokyonight)
+
 ---
 
 # 🧠 Actualmente aprendiendo
