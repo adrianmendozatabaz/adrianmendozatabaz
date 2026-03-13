@@ -56,24 +56,4 @@ Actualmente trabajo en:
 
 ---
 
-# 📌 Proyectos destacados
-
-### 🔹 SIA – Sistema Integral de Autoaprendizaje
-Sistema CRM enfocado en aprendizaje, reportes y capacitación interna.
-
-### 🔹 Herramientas Centenario
-Aplicación para consulta, reportes y gestión de información institucional.
-
-### 🔹 Bebidas Vue
-Aplicación SPA construida con Vue 3, Pinia y consumo de APIs externas.
-
----
-
-# 📫 Contacto
-
-💼 GitHub  
-https://github.com/adrianmendozatabaz
-
----
-
 ⭐ *Siempre aprendiendo. Siempre construyendo.*
