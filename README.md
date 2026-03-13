@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hola, soy Adrián Mendoza (Tabaz)
 
-<!--
-**adrianmendozatabaz/adrianmendozatabaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador enfocado en backend y análisis de datos.  
+Actualmente trabajo en el desarrollo de sistemas internos y herramientas para optimizar procesos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que utilizo
+
+**Backend**
+- PHP
+- SQL Server
+- MySQL
+
+**Frontend**
+- JavaScript
+- Vue.js
+- HTML / CSS
+
+**Herramientas**
+- Git
+- Docker
+- Vite
+- AdminLTE
+
+**Datos**
+- Excel avanzado
+- Power BI (en aprendizaje)
+
+---
+
+## 📊 Intereses actuales
+
+- Arquitecturas limpias en PHP
+- Optimización de consultas SQL
+- Análisis de datos
+- Visualización con Power BI
+- Integración de IA en aplicaciones
+
+---
+
+## 🧠 Actualmente trabajando en
+
+- Desarrollo de CRM internos
+- Sistemas con arquitectura MVC
+- Aplicaciones SPA con Vue
+- Integración de APIs externas
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 **SIA – Sistema Integral de Autoaprendizaje**  
+Sistema CRM con reportes, capacitaciones y gestión de usuarios.
+
+🔹 **Herramientas Centenario**  
+Suite de utilidades para consulta y generación de reportes institucionales.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/adrianmendozatabaz
+
+---
+
+⭐ *Siempre aprendiendo, siempre construyendo.*
