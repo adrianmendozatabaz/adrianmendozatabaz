@@ -1,4 +1,4 @@
-# 👨‍💻 Adrián Mendoza | Tabaz
+# 👨‍💻 Adrian Mendoza | Tabaz
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Backend+Developer;PHP+%7C+Vue+%7C+SQL;Systems+and+Data+Enthusiast;Building+Tools+That+Solve+Real+Problems" />
